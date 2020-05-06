@@ -1,3 +1,3 @@
-# 你好！这是 Paul Deng 在 Github 的主面。
+# Hi, I am Deng.
 
 ## 先不说了。
