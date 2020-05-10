@@ -50,13 +50,10 @@
         });
 
         $("a.jumper").on("click", function( e ) {
-
             e.preventDefault();
-
             $("body, html").animate({
                 scrollTop: ($( $(this).attr('hre') ).offset().top - 100)
             }, 600);
-
         });
     });
 
