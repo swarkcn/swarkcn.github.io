@@ -6,4 +6,3 @@ gem 'jekyll-geo-pattern'
 gem 'kramdown'
 gem 'jekyll-github-metadata'
 
-gem "rake", ">= 12.3.3"
